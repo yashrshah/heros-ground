@@ -12,6 +12,11 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.hero-h1{
+  font-family: 'Bigelow Rules';
+  font-size: 72px;
+  color:blueviolet;
+}
 
 .App-header {
   background-color: #282c34;
